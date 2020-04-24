@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,eACE,YAAa,CACb,kBACF","file":"main.8f377148.chunk.css","sourcesContent":[".flexContainer{\n  display: flex;\n  flex-direction: row;\n}\n"]}
